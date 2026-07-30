@@ -3,7 +3,7 @@ End-to-end Engineering Analytics Platform transforming Vivado FPGA reports into 
 # FPGA Engineering Analytics Platform
 
 ## Project Overview
-
+ 
 During my Research Internship at DRDO–SSPL, I worked on designing a 60-second sequential stopwatch using VHDL on the Xilinx Artix-7 FPGA platform in Vivado. While developing the hardware, I realized that every design iteration generated a large amount of engineering data through simulation, synthesis, implementation, timing, resource utilization, and DRC reports.
 
 Instead of treating these reports only as debugging outputs, I approached them from a data analytics perspective. I organized the engineering data into a structured dataset, analyzed trends across multiple design iterations, identified the major causes of failures, monitored timing closure and resource utilization, and developed KPIs to measure design progress and deployment readiness.
